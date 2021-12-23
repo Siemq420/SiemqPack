@@ -1,12 +1,13 @@
-𝗦𝗶𝗲𝗺𝗾𝗣𝗮𝗰𝗸 - 𝗠𝗶𝗻𝗲𝗰𝗿𝗮𝗳𝘁 𝘁𝗲𝘅𝘁𝘂𝗿𝗲𝗽𝗮𝗰𝗸 𝟭.𝟴.𝘅
+# SiemqPack 1.8.x
 
-Paczka zawiera:
+### [Pobierz SiemqPack 2.2]()
 
-  » poprawiony wygląd narzędzi i zbroi
-  
-  » bardziej realistyczne i przyjemne dla ucha dźwięki 
-  
-  » znacznie ładniejsze i bardziej przejrzyste GUI
-  
-  » niski ogień oraz inne usprawnienia 
- <a href="https://imgur.com">eloelo<a/>
+## Paczka zawiera
+» tekstury wyższej rozdzielczości </br>
+» poprawiony wygląd narzędzi i zbroi </br>
+» przyjemniejsze, bardziej realistyczne dźwięki </br>
+» ładniejsze i bardziej przejrzyste GUI </br>
+» niski ogień oraz inne usprawnienia </br>
+
+### Najnowsza wersja: 2.2 (23.12.2021)
+### Podgląd dostępny [tutaj]() </br> </br>
