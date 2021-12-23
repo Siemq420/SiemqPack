@@ -9,4 +9,4 @@ Paczka zawiera:
   » znacznie ładniejsze i bardziej przejrzyste GUI
   
   » niski ogień oraz inne usprawnienia 
- <a href="https://imgur.com"><a/>
+ <a href="https://imgur.com">eloelo<a/>
